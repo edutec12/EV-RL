@@ -1,7 +1,5 @@
 # EV-RL
 
-Codigo base para resolver el problema de gestion autonoma de carga de vehiculos
-electricos del documento `EriacFinal_corregido.docx`.
 
 El script implementa:
 
